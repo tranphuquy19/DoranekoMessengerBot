@@ -24,7 +24,9 @@ B6: Tại phần webhook, Events -> chọn full; Điền link webhook: ```https:
 
 B7: Vào địa chỉ ```https://<tên app trên heroku>.heroku.com/``` nếu Server is running là đã thành công
 
-B8: Chú ý: bot sử dụng NodeJS(>= 8.16.0) + Express Framework(4.17.0)
+B8: Enjoy!
+
+Chú ý: bot sử dụng NodeJS(>= 8.16.0) + Express Framework(4.17.0)
     Nếu muốn bot chạy public thì cần phải xét duyệt ứng dụng (App Review for Messenger) quyền ```page_messaging```
 
 Một số hình ảnh ví dụ: 
