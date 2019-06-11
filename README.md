@@ -18,7 +18,7 @@ VALIDATION_TOKEN=token
 PAGE_ACCESS_TOKEN=EAAGgQ0YKP04BAOhCJyTxzo5YZAJD3TekWvI4HSpsZCahdadkjqiwjeB0hfZBUuVQHBDpxmXoQgwZAbnMhnzjIEgxk52iGHczyTvZCw2DRnpcjZA9IYTzF0LqdmBdv1OZBOUqir8XQxI7gg57FVLzI5z8roaaNXa4ttZAdUiLXXXXXXXXXXXXXXXXXXXXXX
 ```
 
-B5: git init file vào push lên host, ở đây mình sử dụng heroku, sử dụng host nào tùy các bạn (chú ý host phải có xác thực SSL thì fb mới chấp nhận), nếu host ko phải là heroku thì chạy lệnh ```npm start```
+B5: git init và push lên host, ở đây mình sử dụng heroku, sử dụng host nào tùy các bạn (chú ý host phải có xác thực SSL thì fb mới chấp nhận), nếu host ko phải là heroku thì chạy lệnh ```npm start```
 
 B6: Tại phần webhook, Events -> chọn full; Điền link webhook: ```https://<tên app trên heroku>.heroku.com/webhook``` or ```https:<your_domain>.com/webhook```, token validation: ```token```; OK
 
