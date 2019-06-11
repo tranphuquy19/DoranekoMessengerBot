@@ -31,6 +31,4 @@ Chú ý: bot sử dụng NodeJS(>= 8.16.0) + Express Framework(4.17.0)
 
 Một số hình ảnh ví dụ: 
 
-![image1](https://github.com/tranphuquy19/DoranekoMessengerBot/blob/master/img/ss1.png?raw=true)
-
-![image2](https://github.com/tranphuquy19/DoranekoMessengerBot/blob/master/img/ss2.png?raw=true)
+![image1](https://github.com/tranphuquy19/DoranekoMessengerBot/blob/master/img/ss1.png?raw=true) ![image2](https://github.com/tranphuquy19/DoranekoMessengerBot/blob/master/img/ss2.png?raw=true)
