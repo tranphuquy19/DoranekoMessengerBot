@@ -31,4 +31,4 @@ Một số hình ảnh ví dụ:
 
 ![image1](https://github.com/tranphuquy19/DoranekoMessengerBot/blob/master/img/ss1.png?raw=true)
 
-![https://github.com/tranphuquy19/DoranekoMessengerBot/blob/master/img/ss2.png?raw=true)
+![image2](https://github.com/tranphuquy19/DoranekoMessengerBot/blob/master/img/ss2.png?raw=true)
